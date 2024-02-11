@@ -1,0 +1,9 @@
+Program Example8; (* Example 8 *)
+   
+Const
+    pi=3.1416;
+Var
+    f: float;
+Begin
+  f := pi*2.12*2.34 + 4.123;
+End. (* Example 8 *)
